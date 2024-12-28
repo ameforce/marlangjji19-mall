@@ -1,0 +1,6 @@
+[submodule "services/frontend/marlangjji19-mall-frontend"]
+	path = services/frontend/marlangjji19-mall-frontend
+	url = https://github.com/ameforce/marlangjji19-mall-frontend.git
+[submodule "services/backend/marlangjji19-mall-backend"]
+	path = services/backend/marlangjji19-mall-backend
+	url = https://github.com/ameforce/marlangjji19-mall-backend.git
